@@ -2,8 +2,8 @@
 
 # [ICML 2026] OTora: A Unified Red Teaming Framework for Reasoning-Level Denial-of-Service in LLM Agents
 
-[![ICML 2026](https://img.shields.io/badge/ICML-2026-blue.svg)](https://arxiv.org/abs/2506.xxxxx)
-[![arXiv](https://img.shields.io/badge/arXiv-2506.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2506.xxxxx)
+[![ICML 2026](https://img.shields.io/badge/ICML-2026-blue.svg)](https://icml.cc/)
+[![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-b31b1b.svg)](#)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -160,10 +160,10 @@ See `otora/config.py` for the complete list of configuration options.
 
 ## Citation
 
-If you use OTora in your research, please cite our paper:
+If you use OTora in your research, please cite our paper (arXiv preprint coming soon):
 
 ```bibtex
-@inproceedings{li2025otora,
+@inproceedings{li2026otora,
   title={OTora: A Unified Red Teaming Framework for Reasoning-Level Denial-of-Service in LLM Agents},
   author={Li, Xinyu and Mu, Ronghui and Li, Lin and Huang, Tianjin and Jin, Gaojie},
   booktitle={Proceedings of the International Conference on Machine Learning (ICML)},
